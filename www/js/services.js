@@ -1,4 +1,4 @@
-var adminbase = "http://kepler-lab.com/admin/";
+var adminbase = "http://kingmantransportation.com/app/admin/";
 
 var adminurl = adminbase + "index.php/json/";
 var adminimage = adminbase + "uploads/";
