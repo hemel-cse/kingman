@@ -1,7 +1,7 @@
 {
-  "name": "businessapp",
-  "version": "1.0.0",
-  "description": "BusinessApp",
+  "name": "KingmanTransport",
+  "version": "1.1.1",
+  "description": "KingmanTransport",
   "dependencies": {
     "end-of-stream": "^1.1.0",
     "gulp": "^3.5.6",
