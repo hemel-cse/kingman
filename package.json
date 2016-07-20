@@ -1,6 +1,6 @@
 {
   "name": "KingmanTransport",
-  "version": "1.1.1",
+  "version": "2.0.0",
   "description": "KingmanTransport",
   "dependencies": {
     "end-of-stream": "^1.1.0",
