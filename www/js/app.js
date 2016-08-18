@@ -1,6 +1,6 @@
 var socialShare = {};
 var push = {};
-var googleanalyticsid = 'UA-67616258-1';
+var googleanalyticsid = 'UA-80233275-2';
 
 function addanalytics(screen) {
 	if (window.analytics) {
